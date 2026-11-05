@@ -34,7 +34,7 @@ O projeto utiliza o banco de dados `usos_ia`, composto pelas tabelas:
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](docs/diagrama_classes.drawio.png.png)
+![Diagrama de Classes](docs/diagrama_classes.drawio.png)
 
 ## Testes da API
 
@@ -48,5 +48,4 @@ As imagens dos testes estão disponíveis na pasta `docs`.
 2. Instale as dependências:
 
 ```bash
-npm install# sesi_pbe1_node_mariadb_uso_ia_2026
-# sesi_pbe1_node_mariadb_uso_ia_2026
+npm install
