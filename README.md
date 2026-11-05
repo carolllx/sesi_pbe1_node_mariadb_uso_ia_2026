@@ -49,3 +49,4 @@ As imagens dos testes estão disponíveis na pasta `docs`.
 
 ```bash
 npm install# sesi_pbe1_node_mariadb_uso_ia_2026
+# sesi_pbe1_node_mariadb_uso_ia_2026
