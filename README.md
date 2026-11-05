@@ -34,7 +34,7 @@ O projeto utiliza o banco de dados `usos_ia`, composto pelas tabelas:
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](docs/diagrama_classes.drawio.png.png)
+![Diagrama de Classes](diagrama_classes.drawio.png.png)
 
 ## Testes da API
 
